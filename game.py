@@ -1,4 +1,4 @@
-from game import *
+from logic import *
 def main():
     board = initialise_board()
     while True:
